@@ -1,6 +1,8 @@
 # Jan Ferber
 
-**´Digital Craftsman´**
+**Digital Craftsman**
+
+Digital Craftsman
 
 ## Hi there 👋
 
