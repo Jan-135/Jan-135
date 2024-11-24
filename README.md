@@ -6,17 +6,17 @@ Hi, I’m Jan Ferber, a student of Audiovisual Media at Hochschule der Medien in
 
 ## Me right now
 
-- ♥️ I love everything that has to do with 3D-content Creation
-- 🌱 I’m currently learning more and more about pipelining and  how it is enhancing the creative work of my team members
-- 🎓 Enrolled in a university program in Germany
-- ⚡ Fun fact: I'm Emerald in League of Legends
+- ♥️ I love everything related to 3D content creation.
+- 🌱 I’m currently deepening my understanding of pipeline development and exploring how it enhances the creative workflows of my team.
+- 🎓 Enrolled in a university program in Germany.
+- 🎮 Fun fact: I'm Emerald in League of Legends.
 
 ### 🖥️ Languages and Tools 
-          
+
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Maya" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" />
 <img align="left" alt="Unreal" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+<img align="left" alt="Maya" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <br />
 
@@ -25,5 +25,9 @@ Hi, I’m Jan Ferber, a student of Audiovisual Media at Hochschule der Medien in
 ### Reach me
 
 - 📫 jan@dieferbers.de
-  
-<br />
+- 💼 [LinkedIn](https://www.linkedin.com/in/jan-ferber-0498a92bb/)
+- 🎨 [Artstation](https://www.artstation.com/jan_29_07)
+
+---
+
+Feel free to explore my repositories or reach out if you’d like to collaborate!
