@@ -1,6 +1,6 @@
 # Jan Ferber
 
-**🌐 Digital Craftsman**
+**`Digital Craftsman`**
 
 Hi, I’m Jan Ferber, a student of Audiovisual Media at Hochschule der Medien in Stuttgart, specializing in 3D Animation and CGI. Currently, I’m responsible for pipeline development in a team project. On this GitHub, I showcase the scripts and plugins I’ve developed to enhance workflows and support my team.
 
