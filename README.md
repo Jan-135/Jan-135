@@ -9,7 +9,7 @@ Hi, I’m Jan Ferber, a student of Audiovisual Media at Hochschule der Medien in
 - 🌱 I’m currently learning more and more about pipelining and  how it is enhancing the creative work of my team members
 - 👯 I’m looking to work on any 3D Projects.
 - 📫 How to reach me: jan@dieferbers.de
-- ⚡ Fun fact: I love Computergames
+- ⚡ Fun fact: I'm Emerald in League of Legends
 
 ### Languages and Tools
           
