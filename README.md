@@ -11,6 +11,7 @@ Hi, I’m Jan Ferber, a student of Audiovisual Media at Hochschule der Medien in
 - 📫 How to reach me: jan@dieferbers.de
 - ⚡ Fun fact: I love Computergames
 
+### Languages and Tools
           
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Maya" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" />
