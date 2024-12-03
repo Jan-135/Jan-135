@@ -30,4 +30,4 @@ Hi, I’m Jan Ferber, a student of Audiovisual Media at Hochschule der Medien in
 
 ---
 
-Feel free to explore my repositories or reach out if you’d like to collaborate!
+Feel free to explore my repositories or reach out!
