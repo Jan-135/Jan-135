@@ -8,7 +8,7 @@ Hi, I’m Jan Ferber, a student of Audiovisual Media at Hochschule der Medien in
 
 - ♥️ I love everything related to 3D content creation.
 - 🌱 Deepening my understanding of pipeline development and exploring how it enhances the creative workflows of my team.
-- 🎓 Enrolled in a university program in Germany.
+- 🎓 Studying [audiovisual media](https://www.hdm-stuttgart.de/am/home/index_html?lang=en) at [Stuttgart Media University](https://www.hdm-stuttgart.de/en) in Germany.
 - 🎮 Fun fact: I'm Emerald in League of Legends.
 
 ### 🖥️ Languages and Tools 
