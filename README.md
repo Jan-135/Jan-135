@@ -24,7 +24,7 @@ Hi, I’m Jan Ferber, a student of Audiovisual Media at Hochschule der Medien in
 
 ### Reach me
 
-- 📫 jan@dieferbers.de
+- 📫 jf135@hdm-stuttgart.de
 - 💼 [LinkedIn](https://www.linkedin.com/in/jan-ferber-0498a92bb/)
 - 🎨 [Artstation](https://www.artstation.com/jan_29_07)
 
